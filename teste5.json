@@ -1,0 +1,18 @@
+{
+    "nome": "Vanessa",
+    "CPF": 1234,
+    "CEP": 56789,
+    "Moradia": [
+        {
+            "Casa": "própria",
+            "Apartamento": "alugado",
+            "Sitio": "Alugado",
+            "Quartos":["Suíte", "Simples", "com internet"]
+        },
+        {
+            "Cidade": "São Paulo",
+            "Garagem": "2 vagas",
+            "Banheiro": ["pequeno", "médio", "grande"]
+        }
+    ]
+}
